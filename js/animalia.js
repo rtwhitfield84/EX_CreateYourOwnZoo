@@ -35,19 +35,15 @@ var GreatHornedOwl = new Species();
 var WesternScreechOwl = new Species();
 
 // Output the name, genus name, and species name 
-// BarredOwl.name = "Barred Owl";
-// BarredOwl.genusName = "Strix";
-// BarredOwl.speciesName = "Strix Varia";
-// 
+BarredOwl.name = "Barred Owl";
+BarredOwl.genusName = "Strix";
+BarredOwl.speciesName = "Strix Varia";
+
 
 GreatHornedOwl.name ="Great Horned Owl";
 GreatHornedOwl.genusName = "Bubo";
 GreatHornedOwl.speciesName = "Bubo Virginianus";
-BarredOwl = {
-	name: "Barred Owl",
-	genusName: "Strix",
-	speciesName: "Strix Varia"
-};
+
 
 BarnOwl.name = "Barn Owl";
 BarnOwl.genusName = "Tyto";
